@@ -1,0 +1,7 @@
+[submodule "vpvper"]
+	path = vpvper
+	url = https://github.com/VP-Vibes/VPV-Peripherals.git
+[submodule "scc"]
+	path = scc
+	url = https://github.com/Minres/SystemC-Components.git
+	branch = develop
